@@ -17,8 +17,7 @@ This project presents a Retail Store Sales Dashboard developed using Microsoft E
 - KPI summary for total sales and units sold
 
 ## Dashboard Preview
-
-
+![Dashboard Screenshot](retail_dashboard.jpeg)
 ## Business Insights Generated
 
 - Identified top-performing salespersons
